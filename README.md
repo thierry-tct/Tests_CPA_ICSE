@@ -34,7 +34,9 @@ This command will first copy the tests from ```testscripts``` into the repositor
 
 _By Thierry Titcheu Chekam_
 [_University of Luxembourg (SnT)_](http://wwwen.uni.lu/snt/people/thierry_titcheu_chekam)
+
 _**Email:**_ thierry.titcheu-chekam@uni.lu
+
 _please contact me if you have questions about this._
  
 -----------------------------------------------------
